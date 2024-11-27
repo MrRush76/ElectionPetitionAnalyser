@@ -4,7 +4,7 @@ READ ME
 
 First go to the website - https://petition.parliament.uk/petitions/700143/
 
-Then at the bottom of the page click "Get petition data (json format)"
+Then at the bottom of the page click "Get petition data (json format)"  or just use this link "https://petition.parliament.uk/petitions/700143.json"
 
 Then Save the file to a folder which also contains the code the name should be "700143.json"
 
